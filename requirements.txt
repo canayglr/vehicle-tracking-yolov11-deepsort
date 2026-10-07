@@ -1,0 +1,8 @@
+ultralytics>=8.3
+torch
+torchvision
+opencv-python
+numpy
+scipy
+PyYAML
+easydict

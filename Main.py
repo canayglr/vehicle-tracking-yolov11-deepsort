@@ -34,7 +34,7 @@ while cap.isOpened():
 
     rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     classes = ["araba"]
-    results = model(rgb_frame, device=0, classes=[0], conf=0.8)
+    results = model(rgb_frame, device=device, classes=[0], conf=0.8)
 
     for result in results:
         boxes = result.boxes
