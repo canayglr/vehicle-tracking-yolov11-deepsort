@@ -7,13 +7,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-**🇬🇧 English** · [🇹🇷 Türkçe](#-türkçe)
+**<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> English** · [<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe](#tr)
 
 <img src="sonuc.png" width="720" alt="Tracking result"/>
 
 </div>
 
-## 🇬🇧 Overview
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> Overview
 
 Detects vehicles in a video with a **custom-trained YOLOv11 model**, assigns each one a persistent ID with **DeepSORT**, and counts the number of unique vehicles that pass through the scene.
 
@@ -49,7 +49,9 @@ Based on [AarohiSingla/Tracking-and-counting-Using-YOLOv8-and-DeepSORT](https://
 
 ---
 
-## 🇹🇷 Türkçe
+<a name="tr"></a>
+
+## <img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe
 
 Videodaki araçları **özel eğitilmiş bir YOLOv11 modeli** ile tespit eder, **DeepSORT** ile her araca kalıcı bir kimlik (ID) atar ve sahneden geçen benzersiz araç sayısını hesaplar.
 
